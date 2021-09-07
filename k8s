@@ -1,3 +1,8 @@
 K8s file
+<<<<<<< HEAD
 Add new line
 This is Sunil Reddy
+=======
+second line from Dev1
+Seecond line from Dev2
+>>>>>>> 50132cb36e2c2012a53eaa475792f0f661d80c78
